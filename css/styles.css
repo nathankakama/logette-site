@@ -39,7 +39,7 @@ html {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	overflow-x: hidden; /* prevents horizontal scroll */
+	overflow-x: hidden;
 }
 
 body, p {
@@ -842,9 +842,6 @@ input[type='checkbox'] {
 	.bloc-image{
 		height: 400px;
 		width: 80%;
-		display: flex;
-		justify-content: center;
-		align-items: center;
 	}
 	.offset-xl-1 h1{
 		font-size: xx-large;
@@ -1093,7 +1090,7 @@ a:hover.back-to-top {
 	.row-image{
 		height: 750px;
 		width: 110%;
-		padding: 10%;
+		padding: 5%;
 	}
 	.row-long{
 		height: 900px;
@@ -1103,7 +1100,7 @@ a:hover.back-to-top {
 	}
 	.bloc-image img{
 		height: 400px;
-		width: 80%;
+		width: 430px;
 	}
 	.col-lg-6{
 		height: 400px;
