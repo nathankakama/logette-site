@@ -1089,8 +1089,8 @@ a:hover.back-to-top {
 	}
 	.row-image{
 		height: 750px;
-		width: 110%;
-		padding: 5%;
+		width: 100%;
+		/* padding: 5%; */
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -1099,8 +1099,8 @@ a:hover.back-to-top {
 	.row-long{
 		height: 900px;
 		display: flex;
-		width: 110%;
-		padding: 5%;
+		width: 100%;
+		/* padding: 5%; */
 	}
 	.bloc-image img{
 		height: 400px;
