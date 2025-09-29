@@ -1091,6 +1091,10 @@ a:hover.back-to-top {
 		height: 750px;
 		width: 110%;
 		padding: 5%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		
 	}
 	.row-long{
 		height: 900px;
