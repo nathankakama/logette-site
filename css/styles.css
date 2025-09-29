@@ -1093,13 +1093,13 @@ a:hover.back-to-top {
 	.row-image{
 		height: 750px;
 		width: 110%;
-		padding: 10%;
+		padding: 20px;
 	}
 	.row-long{
 		height: 900px;
 		display: flex;
 		width: 110%;
-		padding: 5%;
+		padding: 20px;
 	}
 	.bloc-image img{
 		height: 400px;
