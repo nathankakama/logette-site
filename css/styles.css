@@ -842,6 +842,9 @@ input[type='checkbox'] {
 	.bloc-image{
 		height: 400px;
 		width: 80%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 	.offset-xl-1 h1{
 		font-size: xx-large;
